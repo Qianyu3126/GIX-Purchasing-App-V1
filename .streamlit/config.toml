@@ -1,0 +1,7 @@
+[theme]
+# Blue accent for buttons, links, and focus states
+primaryColor = "#1E5A8A"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F4F8"
+textColor = "#1A1A1A"
+font = "sans serif"
